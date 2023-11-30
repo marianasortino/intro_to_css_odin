@@ -41,11 +41,11 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-## Authors
+## Author
 
-👤 **Arístides José Molina Pérez**
+👤 **Mariana Sortino**
 
-- GitHub: [@marianasortino](https://github.com/aristides1000)
+- GitHub: [@marianasortino](https://github.com/marianasortino)
 
 ## 🤝 Contributing
 
